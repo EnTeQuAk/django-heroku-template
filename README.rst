@@ -8,5 +8,5 @@ Usage
 
 To start a new project using this template use::
 
-    django-admin.py startproject --template=https://github.com/apollo13/gunicorn/zipball/master -n Procfile project_name
+    django-admin.py startproject --template=https://github.com/apollo13/django-heroku-template/zipball/master -n Procfile project_name
 
